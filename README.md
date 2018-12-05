@@ -6,6 +6,17 @@ The goal of this project was to create a paramotor drone to simulate and collect
 
 This paramotor drone is an mbed based project.  The sytem is constructed using (propellor, motor, 2 servos, RC transmitter?, IMU, mbed, and parafoil).
 
+![alt text](https://github.com/emilygrau/Paramotor-Drone/blob/master/images/parafoil%20diagram.png?raw=true)
+
+## Components
+- [mbed](https://os.mbed.com/platforms/mbed-LPC1768)
+- [servos]() 
+- [motor]()
+- [propellor]()
+- [transmitter]()
+- [parafoil]()
+- [IMU]()
+
 
 ## Getting Started
 
