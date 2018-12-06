@@ -4,18 +4,20 @@ Georgia Institute of Technology - ECE 4180 Fall 2018
 
 The goal of this project was to create a paramotor drone to simulate and collect data on the autonomous control of parafoils for future use in designing a system for the controlled landing of care packages.  
 
-This paramotor drone is an mbed based project.  The sytem is constructed using (propellor, motor, 2 servos, RC transmitter?, IMU, mbed, and parafoil).
+This paramotor drone is an mbed based project.  The payload was constructed to give forward thrust to the parafoil and create lift.
 
 ![alt text](https://github.com/emilygrau/Paramotor-Drone/blob/master/images/parafoil%20diagram.png?raw=true)
 
 ## Components
 - [mbed](https://os.mbed.com/platforms/mbed-LPC1768)
-- [servos]() 
-- [motor]()
-- [propellor]()
-- [transmitter]()
-- [parafoil]()
-- [IMU]()
+- [IMU](https://www.sparkfun.com/products/13284)
+- [Servos](http://www.towerpro.com.tw/product/mg996r/) 
+- [RC receiver](https://hobbyking.com/en_us/turnigy-9x-2-4ghz-8ch-receiver-v2.html?___store=en_u)
+- [Transmitter](https://hobbyking.com/en_us/turnigy-9x-9ch-transmitter-w-module-ia8-receiver-mode-2-afdhs-2a-system.html?___store=en_us)
+- [Electronic Speed Controller](https://hobbyking.com/en_us/hobby-king-30a-esc-3a-ubec.html?___store=en_us)
+- [Motor](https://hobbyking.com/en_us/turnigy-l2215j-900-brushless-motor-200w.html?___store=en_us)
+- [Parafoil](https://www.amazon.com/Besra-Parachute-Parafoil-Kitesurfing-Training/dp/B07CXRHNGF/ref=sr_1_3?ie=UTF8&qid=1544071182&sr=8-3&keywords=2.5m+parafoil+kite)
+- [Propellor](https://hobbyking.com/en_us/carbon-fiber-propeller-12x6-black-cw-ccw-2pcs.html?___store=en_us)
 
 
 ## Getting Started
